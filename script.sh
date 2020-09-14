@@ -16,6 +16,7 @@ lscpu
 nproc
 lsblk
 cat /etc/*release
+unmae -r
 ~
 ~
 
